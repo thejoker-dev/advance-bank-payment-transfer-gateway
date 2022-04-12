@@ -1,5 +1,5 @@
 === Advance Bank Payment Transfer Gateway ===
-
+ 
  - Author: J.
  - Contributors: J.
  - Tags: woocommerce, payment gateway, gateway, manual payment
@@ -8,6 +8,10 @@
  - Version: 1.0.4
  - Tested up to: 5.8
  - Author URI: https://networkerd.cl
+ - Plugin URI: https://networkerd.cl
+
+
+License: GPLv2 or later
 
 == Description ==
 
@@ -27,7 +31,7 @@ Upload the Bank Payment Receipt is require on the checkout page before submit th
 4. Go to **WooCommerce &gt; Settings &gt; Payments** and select "Advance Direct Offline Bank Transfer" to configure
 
 == Frequently Asked Questions ==
-Email - contacto@networkerd.cl
+Email - developer.rameshraj@gmail.com
 
 
 == Changelog ==
